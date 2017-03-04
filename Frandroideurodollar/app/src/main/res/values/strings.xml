@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fr.android.eurodollar</string>
+    <string name="action_settings">Settings</string>
+    <string name="euro">En euro</string>
+    <string name="dollar">En dollar</string>
+    <string name="calc">Calculer</string>
+</resources>
